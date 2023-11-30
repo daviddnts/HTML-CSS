@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+body{
+    font: italic bolder 1em sans-serif;
+}
+h1{
+    font: italic bolder 3em sans-serif;
+}
+h2{
+    font: italic bolder 2em sans-serif;
+}
+p{
+    font: normal bolder 1em sans-serif;
+}
